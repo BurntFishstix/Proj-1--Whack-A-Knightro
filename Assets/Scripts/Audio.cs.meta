@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5c59379d8260eb545b9b59d118990da4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - valvesfx: {fileID: 8300000, guid: 330488a9da294b64f94d052f342e1904, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
